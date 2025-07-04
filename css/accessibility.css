@@ -161,10 +161,10 @@ widget-container{
     --widgetTextColor: #000;
     --widgetColor: #000;
     --widgetIconColor: #fff;
-    --widgetBackgroundColor: #0066ff;
+    --widgetBackgroundColor: #fff;
     --widgetButtonsFontWeight: 500;
     --widgetButtonsToggledFontWeight: 700;
-    --widgetIconBackgroundColor: #000;
+    --widgetIconBackgroundColor: #0066ff;
     --widgetBorder: 0;
     --widgetButtonsBackgroundColor: #fff;
     --widgetButtonsTextColor: #000;
