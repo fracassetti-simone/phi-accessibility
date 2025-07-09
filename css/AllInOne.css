@@ -1,81 +1,81 @@
 @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 @font-face {
-    font-family: 'fonts/OpenDyslexicAlta';
-    src: url('fonts/OpenDyslexicAlta-Italic.woff2') format('woff2'),
-        url('fonts/OpenDyslexicAlta-Italic.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Italic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexic';
-    src: url('fonts/OpenDyslexic-Bold.woff2') format('woff2'),
-        url('fonts/OpenDyslexic-Bold.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexicAlta';
-    src: url('fonts/OpenDyslexicAlta-Regular.woff2') format('woff2'),
-        url('fonts/OpenDyslexicAlta-Regular.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexicAlta';
-    src: url('fonts/OpenDyslexicAlta-BoldItalic.woff2') format('woff2'),
-        url('fonts/OpenDyslexicAlta-BoldItalic.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexic';
-    src: url('fonts/OpenDyslexic-Regular.woff2') format('woff2'),
-        url('fonts/OpenDyslexic-Regular.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexic';
-    src: url('fonts/OpenDyslexic-BoldItalic.woff2') format('woff2'),
-        url('fonts/OpenDyslexic-BoldItalic.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexicMono';
-    src: url('fonts/OpenDyslexicMono-Regular.woff2') format('woff2'),
-        url('fonts/OpenDyslexicMono-Regular.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicMono';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicMono-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexicAlta';
-    src: url('fonts/OpenDyslexicAlta-Bold.woff2') format('woff2'),
-        url('fonts/OpenDyslexicAlta-Bold.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'fonts/OpenDyslexic';
-    src: url('fonts/OpenDyslexic-Italic.woff2') format('woff2'),
-        url('fonts/OpenDyslexic-Italic.woff') format('woff');
+    font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic';
+    src: url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Italic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexic-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -85,6 +85,16 @@ widget-container, widget-container *{
     font-family: Montserrat !important;
     box-sizing: border-box;
 }
+
+widget-credits{
+    text-align: center;
+    padding: 1em;
+    display: block;
+    padding-bottom: 2em;
+    color: #aaa;
+}
+
+widget-credits a{ color: inherit }
 
 /* Accessiblity text align */
 body[accessibility-text-align="left"],
@@ -120,7 +130,7 @@ body[accessibility-contrast] > :not(widget-container){ filter: contrast(200%) !i
 
 /* Accessiblity dyslexia */
 body[accessibility-dyslexia],
-body[accessibility-dyslexia] > :not(widget-container) *{ font-family: 'fonts/OpenDyslexicAlta' !important }
+body[accessibility-dyslexia] > :not(widget-container) *{ font-family: 'https://cdn.jsdelivr.net/gh/fracassetti-simone/phi-accessibility@main/css/fonts/OpenDyslexicAlta' !important }
 
 /* Accessibility big text */
 body[accessibility-big-text],
@@ -140,11 +150,12 @@ body[accessibility-no-animations] *:hover{
 [accessibility-tts]{ outline: 1px solid red !important }
 
 /* Accessibility links */
-body[accessibility-links] > :not(widget-container) a{
+body[accessibility-links] a{
     border: 3px solid #ebb926 !important;
     background-color: #000 !important;
     color: #ebb926 !important;
     font-weight: 600 !important;
+    padding: 1em !important;
 }
 
 widget-container{
@@ -161,10 +172,10 @@ widget-container{
     --widgetTextColor: #000;
     --widgetColor: #000;
     --widgetIconColor: #fff;
-    --widgetBackgroundColor: #fff;
+    --widgetBackgroundColor: #0066ff;
     --widgetButtonsFontWeight: 500;
     --widgetButtonsToggledFontWeight: 700;
-    --widgetIconBackgroundColor: #0066ff;
+    --widgetIconBackgroundColor: #000;
     --widgetBorder: 0;
     --widgetButtonsBackgroundColor: #fff;
     --widgetButtonsTextColor: #000;
